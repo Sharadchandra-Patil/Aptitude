@@ -1,0 +1,94 @@
+1. 
+   Find the least number which if divided by 6, 7, 8, 9, 12 leaves the same remainder 2 in each case.
+Answers
+1. 506   //<--Ans
+2. 504
+3. 502
+4. 500
+
+2. 
+   Given the H.C.F of two numbers as 7 and their L.C.M as 210. If one of the numbers is 35, find the other.
+Answers
+1. 32
+2. 42      //<--Ans
+3. 52
+4. 62
+
+
+3. 
+   The present ages of three persons in proportions 4 : 7 : 9. Eight years ago, the sum of their ages was 56.
+   Find their present ages (in years).
+Answers
+1. 8, 20, 28
+2. 16, 28, 36        //<--Ans
+3. 20, 35, 45
+4. None of these
+
+
+4. 
+    The average of a group of men is increased by 5 years when a person aged of 18 years 
+    is replaced by a new person of aged 38 years. How many men are there in the group?
+Answers
+1. 3
+2. 4           //<--Ans
+3. 5
+4. 6
+
+
+5. 
+   The average marks obtained by 120 candidates was 35. The average marks of passed candidates was 39 
+   and that of failed candidates was 15. Then the number of candidates passed In the examination was-
+Answers
+1. 100     //<--Ans
+2. 125
+3. 85
+4. 65
+
+
+6. 
+   The average of four consecutive even number is 27. Find the largest of these numbers?
+Answers
+1. 24
+2. 28
+3. 30    //<--Ans      if numbers=4 then largest no = avg + (4-1)
+4. 32
+
+
+7. 
+   The ages of Kaushal and Dilip differ by 16 years, Six years ago, 
+   Dilip's age was thrice as that of Kaushal's . Find present age of Dilip (in years)?
+Answers
+1. 14 years
+2. 16 years
+3. 20 years
+4. 30 years     //<--Ans
+5. None of these
+
+
+8. 
+   The L.C.M. of two numbers is 48. The numbers are in the ratio 2 : 3. Then sum of the number is:
+Answers
+1. 28
+2. 32
+3. 40 //<--Ans  2x:3x  HERE  x is HCF  --> 48 * x = 2x * 3x 
+4. 64
+5. None of these
+
+
+9. 
+   If the sum of two numbers is 55 and the H.C.F. and L.C.M. of these numbers are 5 and 120 respectively, 
+   then the sum of the reciprocals of the numbers is equal to:
+Answers
+1. 55/601
+2. 601/55
+3. 11/120   //<--Ans    (1/a  *  1/b)  = (a+b)/(a*b)  =  (sum of numbers) / (LCM * HCF)
+4. 120/11
+5. None of these
+
+
+10. 
+   The H.C.F. of 1.08, 0.36 and 0.9 is :
+Answers
+1. 0.03
+2. 0.9
+3. 0.18   //<--Ans
