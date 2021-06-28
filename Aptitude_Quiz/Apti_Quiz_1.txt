@@ -70,7 +70,7 @@ Answers
 Answers
 1. 28
 2. 32
-3. 40 //<--Ans  2x:3x  HERE  x is HCF  --> 48 * x = 2x * 3x 
+3. 40 //<--Ans  2x:3x  HERE  LCM= (2*3)x =48 ==> x=8  This is also HCF
 4. 64
 5. None of these
 
