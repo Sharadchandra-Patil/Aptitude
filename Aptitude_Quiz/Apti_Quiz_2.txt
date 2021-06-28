@@ -1,0 +1,113 @@
+1. 
+If the price of the commodity is increased by 50% by what fraction must its consumption be reduced 
+so as to keep the same expenditure on its consumption?
+Answers
+1. 1/4
+2. 1/3   //<==Ans   50%= 1/2 fraction   ==>a+b+ab=0 where a and b are in fraction
+3. 1/2                                   // keeping same expenditure means effect on product==zero
+4. 2/3
+
+
+2. 
+Two vessels A and B contain milk and water mixed in the ratio 8 : 5 and 5 : 2 respectively. 
+The ratio in which these two mixtures be mixed to get a new mixture containing 69 3/13%  milk, is-
+Answers
+1. 2:7   //<==Ans     (69*13+3)/13=900/13%==> Divede by 100 to get in fraction == 9/13 use in solving
+2. 3:5
+3. 5:2
+4. 5:7
+
+
+
+3. 
+One type of liquid contains 25 % of benzene, the other contains 30% of benzene. 
+A can is filled with 6 parts of the first liquid and 4 parts of the second liquid. 
+Find the percentage of benzene in the new mixture.
+Answers
+1. 27 %   //<==Ans     (25/100)*(6/10parts)  +   (30/100)*(4/10 parts)  =  27%
+2. 26 %
+3. 29 %
+4. 21 %
+
+
+
+
+4. 
+Three candidates contested the election and received 1136, 7636 and 11628 votes respectively. 
+What percentage of the total votes did the winning candidate get?
+Answers
+1. 30%
+2. 57%    //<==Ans
+3. 72%
+4. 43%
+
+
+
+
+5. 
+Because of scarcity of rainfall, the price of a land decreases by 12% 
+and its production also decreases by 4%. 
+What is the total effect on revenue?
+Answers
+1. Loss of 16%
+2. Gain of 15%
+3. Loss of 15.48%    //<==Ans        => a+b+(ab/100)  = -12 + -4 +(-12 *-4 /100) 
+                                                      = -16+0.48  = -15.52 %  loss(-ve sign)
+4. Loss of 15.52%
+
+
+
+6. 
+48% of the 1st number is 60% of the 2nd number. 
+What is the ratio of the 1st number to the 2nd number?
+Answers
+1. 4:7
+2. 3:4
+3. 5:4               //<==Ans
+4. None of these
+
+
+
+
+7. 
+If cost price of 21 oranges is equal to the selling price of 18 oranges then profit percent is -
+Answers
+1. 7 1/7
+2. 5 5/9
+3. 14 2/7           //<==Ans
+4. 7 1/3
+
+
+
+8. 
+Ana purchased a bicycle at a cost of Rs. 3200. 
+She sold it at a loss of Rs.240. At what price did she sell the bicycle?
+Answers
+1. Rs.2960          //<==Ans
+2. Rs.2690
+3. Rs.3440
+4. Rs.3360
+
+
+
+
+9. 
+A man bought 50 dozen eggs of a rate of Rs. 4 per dozen. 
+He finds 40 eggs rotten, In order to gains 5%, he should sell eggs at -
+Answers
+1. Rs. 4.50 per dozen          //<==Ans
+2. Rs. 5 per dozen
+3. Rs. 5.50 per dozen
+4. Rs. 6.50 per dozen
+
+
+
+10. 
+In two types of stainless steel, the ratio of chromium and steel are 2 : 11 and 5 : 21, respectively. 
+In what proportion should the two types be mixed, 
+so that the ratio of chromium to steel in the mixed type become 7 : 32?
+Answers
+1. 1 : 2                  //<==Ans
+2. 1 : 3
+3. 2 : 3
+4. 3 : 4
