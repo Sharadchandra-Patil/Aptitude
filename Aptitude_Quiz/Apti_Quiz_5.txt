@@ -1,0 +1,97 @@
+1.
+  What was the day of the week on 28th May, 2006?
+Answers
+1. Thursday
+2. Friday
+3. Saturday
+4. Sunday         //
+
+
+2. 
+  Today is Thursday. What will be the day of the week after 94 days?
+Answers
+1. Sunday           //
+2. Monday
+3. Tuesday
+4. Wednesday
+
+
+3. 
+  At what time between 9 and 10 o'clock will the hands of a watch be together?
+Answers
+1. 45 min. past 9
+2. 50 min. past 9
+3. 49 1/11   min. past 9   //
+4. 49 11/1   min. past 9
+
+
+
+4. 
+  At what angle the hands of a clock are inclined at 15 minutes past 5?
+Answers
+1. 58 1/2°
+2. 64°
+3. 67 1/2°       //
+4. 72 1/2°
+
+
+5. 
+  Two cards are drawn together from a pack of 52 cards. 
+  The probability that one is a spade and one is a heart, is:
+Answers
+1. 3/20
+2. 29/34
+3. 47/100
+4. 13/102  //
+
+
+6. 
+  A basket contains 6 blue, 2 red,4 green and 3 yellow balls. If four balls are picked up at random, 
+  what is the probability that 2 are red 2 are green?
+Answers
+1. 4/15
+2. 5/27
+3. 1/3
+4. 2/445  //
+
+
+7. 
+  In how many different ways can be letters of the word SOFTWARE be arranged 
+  in such a way that the vowels always come together?
+Answers
+1. 13440
+2. 1440
+3. 360
+4. None of these   //
+
+
+
+8. 
+  Out of 5 men and 3 women, a committee of 3 members is to be formed so that it has 1 woman and 2 men. 
+  In how many different ways can it be done?
+Answers
+1. 20
+2. 10
+3. 23
+4. 30    //
+
+
+
+9. 
+  Find the number of combinations that can be formed with 5 oranges, 4 mangoes and 3 bananas, 
+  when one fruit of each kind is taken.
+Answers
+1. 60    //
+2. 120
+3. 110
+4. 75
+
+
+
+10. 
+On 8th Feb, 2005 it was Tuesday. What was the day of the week on 8th Feb, 2004?
+Answers
+1. Tuesday
+2. Monday
+3. Sunday         //
+4. Wednesday
