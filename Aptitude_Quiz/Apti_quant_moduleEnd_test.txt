@@ -1,0 +1,194 @@
+1. 
+Three pipes A, B and C can fill a cistern in 8 minutes,12 minutes and 16 minutes respectively. What is the time taken by three pipes to fill the cistern when they are opened together?
+Answers
+1. 3.7 minutes  //
+2. 4 minutes
+3. 4.5 minutes
+4. 5 minutes
+
+
+2. 
+Peter is twice as good as workman as Tom. When they work together they can finish a task in 16 days. If Tom works alone, in many days he will complete the task?
+Answers
+1. 46 days
+2. 48 days         //
+3. 50 days
+4. 52 days
+
+
+
+3. 
+A rectangular grass field has a length of 85 meters and breadth of 65 meters. It is surrounded by a 5-meter wide path. Find the area of the Path and the cost of constructing it at Rs. 5 per square meter?
+Answers
+1. 4000
+2. 6000
+3. 8000             //
+4. 7000
+
+
+
+4. 
+A box contains 2 red, 3 green, and 2 blue balls. Two balls are drawn at random.What is the probability that none of the balls drawn is blue?
+Answers
+1. 10/25
+2. 10/21          //
+3. 10/31
+4. 10/23
+
+
+
+5. 
+A and B take part in a 100 m race. A runs at 5 km per hour. A gives B a start of 8 m and still beats him by 8 seconds. The speed of B is
+Answers
+1. 5.15 km/hr
+2. 4.14 km/hr
+3. 4.25 km/hr
+4. 4.41 km/hr
+
+
+
+6. 
+In a kilometer race, A beats B by 40 meters or by 5 seconds. What is the time taken by A over the course?
+Answers
+1. 1 minute 57 seconds.
+2. 2 minutes.
+3. 1.5 minutes.
+4. None of these.
+
+
+7. 
+What is the compound interest on Rs. 2500 for 2 years at rate of interest 4% per annum?
+Answers
+1. Rs. 180
+2. Rs. 204
+3. Rs. 210
+4. Rs. 220
+
+
+
+8. 
+In what ratio water must be mixed with milk costing Rs. 48 per litre to get a mixture worth Rs. 32 per litre ?
+Answers
+1. 2:3
+2. 3:2
+3. 3:4
+4. 1:2
+
+
+
+9. 
+The LCM of two prime number x and y is 161. If x>y, find the value of 15y-7x.
+Answers
+1. -32
+2. -56
+3. 38
+4. 74
+
+
+
+10. 
+The average of 11 numbers is 10.9. If the average of first six is 10.5 and that of the last six is 11.4 the sixth number is?
+Answers
+1. 11.0
+2. 11.3
+3. 11.4
+4. 11.5
+
+
+
+
+11. 
+A shopkeeper mixes 60 kg of sugar worth Rs. 30 per kg with 90 kg of sugar worth Rs. 40 per kg. At what rate he must sell the mixture to gain 20%?
+Answers
+1. Rs. 30 per kg
+2. Rs. 34 per kg
+3. Rs. 43.2 per kg
+4. Rs. 38 per kg
+
+
+
+12. 
+Ramesh and Suresh enter into a partnership with capitals in the ratio of 10:12. At the end of 8 months, Ramesh withdraws. If they receive profits in the ratio of 10:18. Find how long Suresh's capital was used.
+Answers
+1. 7 months
+2. 8 months
+3. 10 months
+4. 12 months
+
+
+
+
+13. 
+Today is Wednesday, after 68 days, it will be
+Answers
+1. Friday
+2. Sunday
+3. Monday
+4. Thursday
+
+
+
+
+14. 
+A watch which gains uniformly is 5 minutes slow at 6am on Monday and is 5 minutes 48 seconds fast at 6pm on the following Monday. When was it correct?
+Answers
+1. 5:20 pm on Wednesday
+2. 5:20 pm on Thursday
+3. 4:20 pm on Wednesday
+4. 4:20 pm on Thursday
+
+15. 
+The base of a right-angled triangle is 10 and hypotenuse is 20. What is its area?
+Answers
+1. 52.65 meters
+2. 58.73 meters
+3. 68.63 meters
+4. 86.62 meters
+
+
+
+16. 
+In a bag, there are 8 red, 7 yellow and 6 green balls. If one ball is picked up at random, what is the probability that it is neither red nor green?
+Answers
+1. 1/4
+2. 1/2
+3. 1/5
+4. 1/3
+
+
+
+17. 
+Find the smallest digit that will leave same remainder 4 in each case when divided by 12, 15, 20, and 54.
+Answers
+1. 454
+2. 540
+3. 544
+4. 450
+
+
+18. 
+The sum of the ages of father and his son is 44 years. If 6 years after the father will be 3 times as old as his son, what are their present ages?
+Answers
+1. 36, 8
+2. 36, 6
+3. 35, 9
+4. 37, 7
+
+
+
+19. 
+A pipe can fill a tank in 6 hours and another pipe can empty the tank in 12 hours. If both the pipes are opened at the same time, the tank can be filled in
+Answers
+1. 10 hours
+2. 12 hours
+3. 14 hours
+4. 16 hours 
+
+
+20. 
+Vikas and Mohan working together can complete a work in 6 days. If Vikas alone completes the same work in 10 days, in how many days Mohan alone can complete the same work?
+Answers
+1. 13 days
+2. 14 days
+3. 15 days
+4. 16 days
