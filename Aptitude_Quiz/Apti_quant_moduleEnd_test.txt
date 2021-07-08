@@ -41,7 +41,7 @@ Answers
 A and B take part in a 100 m race. A runs at 5 km per hour. A gives B a start of 8 m and still beats him by 8 seconds. The speed of B is
 Answers
 1. 5.15 km/hr
-2. 4.14 km/hr
+2. 4.14 km/hr   //
 3. 4.25 km/hr
 4. 4.41 km/hr
 
@@ -51,7 +51,7 @@ Answers
 In a kilometer race, A beats B by 40 meters or by 5 seconds. What is the time taken by A over the course?
 Answers
 1. 1 minute 57 seconds.
-2. 2 minutes.
+2. 2 minutes.   //
 3. 1.5 minutes.
 4. None of these.
 
@@ -60,7 +60,7 @@ Answers
 What is the compound interest on Rs. 2500 for 2 years at rate of interest 4% per annum?
 Answers
 1. Rs. 180
-2. Rs. 204
+2. Rs. 204 //
 3. Rs. 210
 4. Rs. 220
 
@@ -72,7 +72,7 @@ Answers
 1. 2:3
 2. 3:2
 3. 3:4
-4. 1:2
+4. 1:2   //
 
 
 
@@ -80,7 +80,7 @@ Answers
 The LCM of two prime number x and y is 161. If x>y, find the value of 15y-7x.
 Answers
 1. -32
-2. -56
+2. -56  //
 3. 38
 4. 74
 
@@ -92,17 +92,18 @@ Answers
 1. 11.0
 2. 11.3
 3. 11.4
-4. 11.5
+4. 11.5  //
 
 
 
 
 11. 
-A shopkeeper mixes 60 kg of sugar worth Rs. 30 per kg with 90 kg of sugar worth Rs. 40 per kg. At what rate he must sell the mixture to gain 20%?
+
+
 Answers
 1. Rs. 30 per kg
 2. Rs. 34 per kg
-3. Rs. 43.2 per kg
+3. Rs. 43.2 per kg //
 4. Rs. 38 per kg
 
 
@@ -113,7 +114,7 @@ Answers
 1. 7 months
 2. 8 months
 3. 10 months
-4. 12 months
+4. 12 months  //
 
 
 
@@ -123,7 +124,7 @@ Today is Wednesday, after 68 days, it will be
 Answers
 1. Friday
 2. Sunday
-3. Monday
+3. Monday  //
 4. Thursday
 
 
@@ -153,7 +154,7 @@ Answers
 1. 1/4
 2. 1/2
 3. 1/5
-4. 1/3
+4. 1/3  //
 
 
 
@@ -162,14 +163,14 @@ Find the smallest digit that will leave same remainder 4 in each case when divid
 Answers
 1. 454
 2. 540
-3. 544
+3. 544  //
 4. 450
 
 
 18. 
 The sum of the ages of father and his son is 44 years. If 6 years after the father will be 3 times as old as his son, what are their present ages?
 Answers
-1. 36, 8
+1. 36, 8  //
 2. 36, 6
 3. 35, 9
 4. 37, 7
@@ -190,5 +191,5 @@ Vikas and Mohan working together can complete a work in 6 days. If Vikas alone c
 Answers
 1. 13 days
 2. 14 days
-3. 15 days
+3. 15 days   //
 4. 16 days
